@@ -1,0 +1,21 @@
+generated: '2026-07-17'
+method: searched
+source: https://pypi.org/pypi/alooma/json
+notes: >-
+  Alooma (the standalone product) was acquired by Google Cloud in February 2019
+  and its developer surface (alooma.com / docs.alooma.com) no longer resolves.
+  The first-party Python client still exists on PyPI and is captured here. No
+  first-party npm, Maven, NuGet, Go, RubyGems, Packagist, or crates.io package
+  was found.
+packages:
+  - language: python
+    registry: pypi
+    name: alooma
+    url: https://pypi.org/project/alooma/
+    install: pip install alooma
+    version: 0.4.16
+    released: '2020-05-17'
+    author: Alooma
+    author_email: support@alooma.io
+    summary: Alooma python API
+    official: true
