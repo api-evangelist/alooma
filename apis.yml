@@ -35,7 +35,7 @@ x-acquired-by: google-cloud
 x-acquired-date: '2019-02'
 x-defunct: true
 x-defunct-reason: domain-nxdomain-product-wound-down
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
